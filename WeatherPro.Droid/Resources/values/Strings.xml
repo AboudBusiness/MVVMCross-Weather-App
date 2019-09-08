@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMCrossOpenWeatherApiPro.Droid</string>
+    <string name="action_settings">Settings</string>
+</resources>
